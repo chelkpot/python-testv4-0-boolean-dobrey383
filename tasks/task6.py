@@ -5,7 +5,7 @@ def solve():
     a = int(input())
     b = int(input())
     c = int(input())
-    print(a**2 + b**2 == c**2)
+    print((a**2 + b**2) == c**2)
    
    
 # Код ниже не трогать! он нужен для тестов
